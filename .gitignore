@@ -1,0 +1,8 @@
+# ignore project's personal token file
+tokens.py
+
+# ignore macos python3 local cache file
+_pycache_
+
+# ignore junk files
+*junk*
