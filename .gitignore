@@ -1,5 +1,5 @@
 # ignore project's personal token file
-tokens.py
+#tokens.py
 
 # ignore macos python3 local cache file
 _pycache_
