@@ -6,3 +6,5 @@ _pycache_
 
 # ignore junk files
 *junk*
+
+*DS_Store*
