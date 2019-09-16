@@ -6,6 +6,7 @@ Original from: https://github.com/jas-minetong/Quantum-Battleships.git
 Modified by: karstdiver@hotmail.com
 
 Change: changed to run under python3 and qiskit verions:
+
 qiskit                0.12.0   
 qiskit-aer            0.3.0    
 qiskit-aqua           0.6.0    
