@@ -64,7 +64,8 @@ from qiskit import execute
 
 #Insert your IBMQ API token in the quotations below!
 # In[ ]:
-IBMQ.enable_account('8ca00062b2b1e1f05e5e75cbe26ccadebe10a4bbc5b62494f699f2a796a610f1594013e38515cade689f95c23f891c6a3b332de8267000008d7e9941a619027c')
+from tokens import *
+IBMQ.enable_account(IBMQ_API_personal_token)
 # Load the saved IBMQ accounts
 #IBMQ.load_account()
 

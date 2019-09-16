@@ -2,7 +2,8 @@ from qiskit import IBMQ, Aer
 import getpass, random, numpy, math
 
 #Insert your IBMQ API token within the quotation marks below!
-#IBMQ.save_account('8ca00062b2b1e1f05e5e75cbe26ccadebe10a4bbc5b62494f699f2a796a610f1594013e38515cade689f95c23f891c6a3b332de8267000008d7e9941a619027c')
+#from tokens import *
+#IBMQ.save_account(IBMQ_API_personal_token)
 #IBMQ.load_account()
 
 def title_screen ():
