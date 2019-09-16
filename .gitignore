@@ -3,6 +3,8 @@ tokens.py
 
 # ignore macos python3 local cache file
 _pycache_
+_pycache_*
+*.pyc*
 
 # ignore junk files
 *junk*
